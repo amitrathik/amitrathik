@@ -1,4 +1,13 @@
-const navData = [];
+const navData = [{
+	link : '',
+	name : 'About'
+},{
+	link : '',
+	name : 'Blog'
+},{
+	link : '',
+	name : 'Contact'
+}];
 
 const nav = () => {
 	const menu = navData.map((item, index) => {
