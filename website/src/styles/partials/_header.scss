@@ -422,9 +422,6 @@
  */
 .header-has-img .header {
     margin-bottom: 40px;
-    position: absolute;
-    height: 100%;
-    width: 100%;
 }
 
 .header-has-img .head-bg {
@@ -433,8 +430,7 @@
 }
 
 .header-has-img.home .head-bg {
-    // height: 515px;
-    height:100%;
+    height: 515px;
 }
 
 .header-has-img .head-bar {
